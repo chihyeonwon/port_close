@@ -30,4 +30,4 @@ sshd → SSH 데몬 (SSH 원격 접속, 22포트)
 
 바로 백그라운드에서 행해지는 공격임을 알 수 있다.
 
-백
+Apache httpd Directory Traversal != directory traversal 로 정리
